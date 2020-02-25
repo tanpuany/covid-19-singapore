@@ -1,0 +1,32 @@
+﻿Case,Relationship,Related to
+1,Father-Son,3
+2,Close Contact ,13
+4,Travelling Companions,11
+8,Married,9
+12,Travelling Companions,18
+13,Mother-Daughter,26
+19,Married,27
+21,Maid,19
+24,Married,25
+28,Child,19
+44,Contact with,13
+44,Contact with,26
+55,Family member,50
+19,Mother-Child,28
+67,Family member,61
+65,Family member,50
+65,Family member,55
+56,Close Contact ,47
+68,Family member,66
+70,Family member,66
+71,Contact with,66
+72,Contact with,59
+75,Family member,41
+73,Close Contact ,51
+77,Contact with,50
+79,Family member,72
+80,Contact with,66
+84,Contact with,66
+86,Contact with,82
+87,Contact with,76
+88,Contact with,66
