@@ -37,3 +37,5 @@ Case,Relationship,Related to
 99,Close Contact ,93
 100,Close Contact ,93
 102,Works for,101
+101,Contact With,103
+104,Works for,103
