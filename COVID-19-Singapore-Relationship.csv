@@ -9,30 +9,30 @@ Case,Relationship,Related to
 21,Maid,19
 24,Married,25
 28,Child,19
-44,Contact with,13
-44,Contact with,26
-55,Family member,50
+44,Contact With,13
+44,Contact With,26
+55,Family Member,50
 19,Mother-Child,28
-67,Family member,61
-65,Family member,50
-65,Family member,55
+67,Family Member,61
+65,Family Member,50
+65,Family Member,55
 56,Close Contact ,47
-68,Family member,66
-70,Family member,66
-71,Contact with,66
-72,Contact with,59
-75,Family member,41
+68,Family Member,66
+70,Family Member,66
+71,Contact With,66
+72,Contact With,59
+75,Family Member,41
 73,Close Contact ,51
-77,Contact with,50
-79,Family member,72
-80,Contact with,66
-84,Contact with,66
-86,Contact with,82
-87,Contact with,76
-88,Contact with,66
-91,Contact with,66
-95,Contact with,93
-96,Contact with,94
+77,Contact With,50
+79,Family Member,72
+80,Contact With,66
+84,Contact With,66
+86,Contact With,82
+87,Contact With,76
+88,Contact With,66
+91,Contact With,66
+95,Contact With,93
+96,Contact With,94
 97,Close Contact ,93
 99,Close Contact ,93
 100,Close Contact ,93
@@ -43,7 +43,7 @@ Case,Relationship,Related to
 108,Work for ,101
 112,Contact With,94
 114,Family Member ,115
-126,Contact with,109
+126,Contact With,109
 122,Close Contact ,117
 125,Family Member ,128
 126,Same Ward,109
@@ -62,3 +62,8 @@ Case,Relationship,Related to
 148,Contact With,107
 150,Contact With,115
 150,Contact With,134
+151,Contact With,66
+151,Contact With,91
+155,Contact With,128
+157,Contact With,137
+160,Family Member,145
