@@ -257,7 +257,7 @@ Case,Action,Location
 134,Live,Jurong West Street 71
 135,Work,100 Jurong East Street 21
 135,Live,Telok Blangah Crescent
-136,Visit,United States
+136,Visit,US
 136,Visit,Italy
 136,Visit,Raffles Hospital
 136,Live,Tanjong Pagar Road
@@ -296,7 +296,7 @@ Case,Action,Location
 153,Visit,Choa Chu Kang Polyclinic 
 153,Live,Jalan Teck Whye
 154,Visit,Switzerland 
-154,Visit,United Kingdom
+154,Visit,UK
 154,Visit,Raffles Hospital 
 154,Live,1 Beach Road
 155,Live,Boon Lay Place
@@ -335,9 +335,9 @@ Case,Action,Location
 173,Visit,France 
 175,Visit,France 
 176,Visit,Japan 
-176,Visit,United Kingdom
-177,Visit,United States
-177,Visit,United Kingdom
+176,Visit,UK
+177,Visit,US
+177,Visit,UK
 177,Visit,France 
 178,Visit,Philippines 
 171,Live,Jalan Haji Salam
@@ -351,7 +351,7 @@ Case,Action,Location
 178,Live,Jurong East Street 21
 179,Visit,Malaysia 
 179,Live,Jurong West Street 73
-180,Visit,United States
+180,Visit,US
 180,Live,Bishan Street 23
 181,Visit,Indonesia
 181,Live,Bukit Timah Road
@@ -384,7 +384,7 @@ Case,Action,Location
 191,Visit,Germany 
 191,Visit,Malaysia 
 191,Live,Pasir Ris Grove
-192,Visit,United States
+192,Visit,US
 192,Live,289 Beach Road
 193,Visit,Germany 
 193,Visit,Czech Republic 
@@ -396,7 +396,7 @@ Case,Action,Location
 194,Visit,Austria
 194,Visit,Hungary
 194,Live ,Telok Blangah Street 31
-195,Visit,United States
+195,Visit,US
 195,Visit,Canada 
 195,Live,Bukit Batok Ave 3
 196,Live,Holland Close
@@ -425,13 +425,13 @@ Case,Action,Location
 205,Visit,Philippines 
 205,Work,45 Airport Cargo Road
 205,Live,Flora Drive
-206,Visit,United States
+206,Visit,US
 206,Live,Upper Paya Lebar Road
-207,Visit,United Kingdom 
+207,Visit,UK
 207,Live,Yishun Central
 208,Visit,Outram Road
 208,Live,Tiong Bahru Road
-209,Visit,United States 
+209,Visit,US
 209,Work,Singapore General Hospital
 209,Live,Serangoon Avenue 3
 210,Visit,Germany 
@@ -461,7 +461,7 @@ Case,Action,Location
 222,Visit,France
 222,Visit,Spain 
 222,Visit,Philippines 
-223,Visit,United States 
+223,Visit,US
 223,Visit,Australia 
 224,Visit,Malaysia 
 225,Visit,Indonesia 
@@ -481,7 +481,7 @@ Case,Action,Location
 222,Visit,Philippines 
 222,Work,12 Seletar Aerospace Link
 222,Live,Kensington Park Road
-223,Visit,United States 
+223,Visit,US
 223,Visit,Australia 
 223,Live,Serangoon Garden Terrace
 224,Visit,Malaysia 
@@ -501,12 +501,12 @@ Case,Action,Location
 230,Work,Republic Polytechnic 
 230,Work,Singapore Polytechnic
 230,Live,Ewe Boon Road
-231,Visit,United States 
+231,Visit,US
 231,Live,Robertson Quay
-232,Visit,United States 
+232,Visit,US
 232,Live,Robertson Quay
-233,Visit,United Kingdom 
-233,Visit,United Kingdom
+233,Visit,UK
+233,Visit,UK
 233,Visit,Parkway East Hospital 
 233,Live,East Coast Road
 234,Visit,Bukit Merah Polyclinic 
@@ -541,12 +541,12 @@ Case,Action,Location
 246,Visit,Japan 
 246,Visit,31 Exeter Road
 246,Live,Tanjong Pagar
-247,Visit,United Kingdom 
+247,Visit,UK
 247,Visit,France 
 247,Live,Tampines Avenue 8
 248,Visit,Malaysia 
-249,Visit,United States 
-250,Visit,United Kingdom 
+249,Visit,US
+250,Visit,UK
 250,Visit,Austria 
 252,Visit,Malaysia 
 253,Visit,Spain 
@@ -554,15 +554,15 @@ Case,Action,Location
 255,Visit,Norway
 255,Visit,Denmark 
 255,Visit,Sweden 
-257,Visit,United Kingdom 
+257,Visit,UK
 258,Visit,Europe 
 259,Visit,Philippines 
-261,Visit,United States 
+261,Visit,US
 261,Visit,France 
-262,Visit,United Kingdom 
+262,Visit,UK
 263,Visit,Spain 
 263,Visit,Portugal 
-265,Visit,United Kingdom 
+265,Visit,UK
 266,Visit,Spain 
 266,Visit,Portugal 
 267,Visit,Indonesia
@@ -618,3 +618,35 @@ Case,Action,Location
 312,Visit,France
 312,Visit,Germany
 313,Visit,UK
+315,Visit,UK 
+316,Visit,Malaysia 
+317,Visit,UK 
+319,Visit,Philippines 
+320,Visit,UK 
+322,Visit,Switzerland
+322,Visit,France 
+323,Visit,UK 
+324,Visit,UK 
+325,Visit,UK 
+326,Visit,UK
+326,Visit,Netherlands 
+327,Visit,Switzerland
+327,Visit,Italy
+327,Visit,Austria
+327,Visit,Germany
+328,Visit,UK
+328,Visit,Switzerland 
+329,Visit,Turkey 
+331,Visit,UK 
+332,Visit,UK 
+333,Visit,US 
+334,Visit,US 
+337,Visit,France
+337,Visit,Switzerland 
+339,Visit,Philippines 
+340,Visit,Philippines 
+341,Visit,UK 
+342,Visit,Thailand 
+343,Visit,UK 
+344,Visit,UK 
+345,Visit,UK 
