@@ -1,89 +1,89 @@
 Case,Action,Location
-19,Visit,Tan Tock Seng Hospital
 19,Live,Jalan Bukit Merah
 19,Visit,Singapore General Hospital
+19,Visit,Tan Tock Seng Hospital
 20,Live,Hougang Street 61
 21,Live,Jalan Bukit Merah
 24,Live,Buangkok Green
-24,Work,Jalan Besar
 24,Visit,Hougang Polyclinic
-25,Visit,Hougang Polyclinic
+24,Work,Jalan Besar
 25,Live,Buangkok Green
 25,Work,Harbour Drive
+25,Visit,Hougang Polyclinic
 25,Visit,Pasir Panjang Food Centre
 29,Visit,Mount Elizabeth Novena Hospital 
 30,Visit,19 China Street
 30,Visit,9 Bishan Place
 30,Live,Shunfu Road
+31,Travel,Malaysia
 31,Live,Tampines Street 24
-31,Visit,Malaysia
-32,Visit,Parkway East Hospital
-32,Work,Victoria Junior College
 32,Visit,Changi Airport
+32,Visit,Parkway East Hospital
 32,Visit,Singapore Zoo
-33,Visit,Malaysia
+32,Work,Victoria Junior College
+33,Travel,Malaysia
 34,Stay,Sin Ming Road
+35,Visit,Bukit Merah hawker centre 
 35,Visit,Bukit Merah Polyclinic
 35,Live,Henderson Crescent
 35,Visit,Redhill Market
-35,Visit,Bukit Merah hawker centre 
-36,Visit,Ng Teng Fong General Hospital
 36,Live,Bukit Batok Street 31
-37,Visit,Ng Teng Fong General Hospital
+36,Visit,Ng Teng Fong General Hospital
 37,Live,Jurong East Street 32
+37,Visit,Ng Teng Fong General Hospital
+38,Visit,Chinatown
+38,Live,Choa Chu Kang Avenue 3
 38,Visit,Choa Chu Kang Polyclinic
 38,Visit,Marina Bay Sands
-38,Visit,Chinatown
 38,Visit,Plaza Singapura
-38,Live,Choa Chu Kang Avenue 3
-39,Visit,Malaysia
 39,Live,Jurong West Central
+39,Travel,Malaysia
 40,Live,Bedok North Street
+41,Visit,5 Boundary Road
+41,Visit,755 Upper Serangoon Road
+41,Visit,Braddell Heights
 41,Visit,Hougang Polyclinic
 41,Visit,Tan Tock Seng Hospital
-41,Visit,5 Boundary Road
-41,Visit,Braddell Heights
-41,Visit,755 Upper Serangoon Road
 41,Live,Upper Serangoon Road
-42,Visit,Changi General Hospital 
+42,Live,25 Kaki Bukit Road
 42,Visit,Bedok Polyclinic
 42,Visit,Changi General Hospital 
+42,Visit,Changi General Hospital 
 42,Visit,Mustafa Centre
-42,Live,25 Kaki Bukit Road
-43,Visit,Malaysia
-43,Work,Resorts World Sentosa
 43,Live,Fernvale Close
+43,Travel,Malaysia
+43,Work,Resorts World Sentosa
 44,Work,20 Jalan Afifi
-44,Work,The Pit Building
 44,Live,Sembawang Drive
-46,Live,Johor Bahru
-46,Visit,Tan Tock Seng Hospital
+44,Work,The Pit Building
+46,Travel,Johor Bahru
 46,Work,Resorts World Sentosa Casino
+46,Visit,Tan Tock Seng Hospital
 47,Live,Veerasamy Road
-48,Visit,Malaysia
-48,Visit,Plaza Singapura
-48,Visit,Star Vista
+48,Work,1 Bukit Batok West Avenue 4
 48,Visit,1 Fusionopolis Place
 48,Work,355 Tanglin Road
-48,Work,1 Bukit Batok West Avenue 4
 48,Live,Bukit Batok Street 25
-49,Work,355 Tanglin Road
+48,Travel,Malaysia
+48,Visit,Plaza Singapura
+48,Visit,Star Vista
 49,Work,1 Bukit Batok West Avenue 4
+49,Work,355 Tanglin Road
 49,Live,Toh Guan Road
 50,Work,12 Marina Boulevard
 50,Live,Mei Hwan Drive
-51,Work,355 Tanglin Road
 51,Work,1 Bukit Batok West Avenue 4
+51,Work,355 Tanglin Road
 51,Live,Bishan Street 13
-52,Visit,Tan Tock Seng Hospital
 52,Live,Campbell Lane
+52,Visit,Tan Tock Seng Hospital
 53,Live,Hillview Avenue
 53,Work,National University of Singapore
 54,Work,355 Tanglin Road
 54,Live,Ang Mo Kio Avenue 5
-55,Work,Pulau Bukom
 55,Visit,2221 Ang Mo Kio Avenue 8
 55,Live,Mei Hwan Drive
+55,Work,Pulau Bukom
 56,Visit,Tan Tock Seng Hospital
 57,Work,Grace Assembly of God
 57,Live,Senja Road
@@ -92,175 +92,175 @@ Case,Action,Location
 59,Visit,Farrer Park Hospital
 59,Visit,Mount Elizabeth Hospital
 59,Live,Wilkinson Road
-60,Live,Ang Mo Kio Avenue 3
 60,Work,355 Tanglin Road
+60,Live,Ang Mo Kio Avenue 3
+61,Work,56 Senang Crescent
+61,Live,Jurong West Street 64
 61,Visit,Ng Teng Fong General Hospital
 61,Visit,Pioneer Polyclinic
-61,Live,Jurong West Street 64
-61,Work,56 Senang Crescent
 62,Live,Tanjong Pagar Road
-63,Work,PUB
 63,Visit,103 Beach Road
 63,Live,Potong Pasir Avenue 3
+63,Work,PUB
 64,Live,Jurong West Street 81
 65,Visit,2221 Ang Mo Kio Avenue 8
 65,Live,Mei Hwan Drive
-66,Work,Grace Assembly of God
 66,Visit,37 Jalan Pemimpin
+66,Work,Grace Assembly of God
 66,Live,Mei Hwan Drive
 67,Visit,1 Bukit Batok West Avenue 4
-67,Visit,Ng Teng Fong General Hospital
-67,Visit,National University of Singapore
 67,Live,Jurong West Street 64
+67,Visit,National University of Singapore
+67,Visit,Ng Teng Fong General Hospital
 68,Visit,364A Paya Lebar Road
 68,Live,Mei Hwan Drive
-70,Visit,37 Jalan Pemimpin
 70,Work,19 Kallang Avenue
+70,Visit,37 Jalan Pemimpin
 70,Live,Mei Hwan Drive
-71,Visit,Sengkang General Hospital
-71,Work,Fernvale Lane
 71,Visit,37 Jalan Pemimpin 
+71,Work,Fernvale Lane
 71,Live,Fernvale Road
+71,Visit,Sengkang General Hospital
 72,Visit,Marina Bay Sands Casino
-72,Work,Woodlands Industrial Park
 72,Live,Woodlands Crescent
+72,Work,Woodlands Industrial Park
 73,Visit,355 Tanglin Road
-73,Work,Singapore Armed Forces (SAF)
 73,Live,Lorong 8 Toa Payoh
+73,Work,Singapore Armed Forces (SAF)
 74,Work,3031A Ubi Road
 74,Live,Mei Ling Street
-77,Visit,Tan Tock Seng Hospital
 77,Live,McNair Road
-78,Work,VWO-run community hospital
+77,Visit,Tan Tock Seng Hospital
 78,Live,Dairy Farm
+78,Work,VWO-run community hospital
 79,Work,8A Admiralty Street
 79,Live,Woodlands Crescent
-80,Work,NUH
 80,Live,Fernvale Link
+80,Work,NUH
 81,Live,Lower Delta Road
 82,Visit,Jurong Polyclinic
 82,Live,Jurong West Street 41
-83,Visit,Malaysia
 83,Work,16 Kallang Place
+83,Travel,Malaysia
 83,Live,Rivervale Drive
 84,Work,35 Tuas South Avenue 6
-84,Visit,Bugis Junction
 84,Live,Aljunied Road area
-85,Visit,Yishun Polyclinic
+84,Visit,Bugis Junction
 85,Visit,Khoo Teck Puat Hospital
 85,Live,Woodlands Avenue 6
+85,Visit,Yishun Polyclinic
 86,Live,Bukit Batok East Avenue 5
 86,Study,Singapore Institute of Technology
 88,Live,Hougang Street 91
-89,Work,8 Temasek Boulevard
 89,Visit,51 Bishan Street 13
+89,Work,8 Temasek Boulevard
 89,Live,Serangoon Avenue 3
 90,Live,Bishan Street 12
 91,Live,Rivervale Drive+
-94,Live,Jalan Jurong Kechil 
 92,Live,Serangoon Avenue 3
-93,Live,Bukit Batok Street 31
 93,Work,10 Science Park Road
-95,Work,10 Science Park Road
-97,Work,10 Science Park Road
-98,Work,10 Science Park Road
-97,Visit,5 Maxwell Road
-97,Live,Choa Chu Kang North 5.
-95,Visit,3 Stadium Drive
+93,Live,Bukit Batok Street 31
+94,Live,Jalan Jurong Kechil 
 95,Visit,1 Aviation Drive
-95,Visit,490 Lorong 6 Toa Payoh
+95,Work,10 Science Park Road
 95,Visit,297 Lorong 6 Toa Payoh
+95,Visit,3 Stadium Drive
+95,Visit,490 Lorong 6 Toa Payoh
 95,Live,Choa Chu Kang Crescent
-96,Study,Raffles Institution
 96,Live,Jalan Jurong Kechil
+96,Study,Raffles Institution
+97,Work,10 Science Park Road
+97,Visit,5 Maxwell Road
 97,Visit,5 Maxwell Road
 97,Live,Choa Chu Kang North 5
+97,Live,Choa Chu Kang North 5.
+98,Work,10 Science Park Road
 98,Live,Jurong West Street 61
-99,Visit,Pioneer Polyclinic
 99,Live,Jurong West Street 81
+99,Visit,Pioneer Polyclinic
 100,Live,Holland Avenue
-101,Visit,Batam
 101,Work,2019 Bukit Batok Industrial Park A
+101,Travel,Batam
 101,Live ,Bukit Batok Street 24
 102,Live,Bukit Batok Street 24
-103,Visit ,Batam 
 103,Work,2019 Bukit Batok Industrial Park A
+103,Travel,Batam 
 103,Live,Bukit Batok Street 31
-104,Visit,Batam 
+104,Travel,Batam 
 104,Live,Bukit Batok Street 31
 105,Visit,490 Lorong 6 Toa Payoh
 105,Live,Upper Bukit Timah Road
 106,Work,10 Science Park Road
 106,Live,Tampines Street 45
-107,Visit,Jakarta
 107,Live,Bishan Street 13
+107,Travel,Jakarta
 108,Live,Bukit Batok Street 24
 109,Work,154 West Coast Road
 109,Live,Everton Park
 110,Live,Upper Boon Keng Road
-111,Visit,Sengkang General Hospital 
-111,Visit,NUH 
 111,Live,Compassvale Street
-112,Visit,Bukit Batok Polycinic
+111,Visit,NUH 
+111,Visit,Sengkang General Hospital 
 112,Work,31 International Business Park
-113,Visit,France
-113,Visit,Portugal 
-113,Visit ,UK
+112,Visit,Bukit Batok Polycinic
+113,Travel,France
 113,Visit,Gleneagles Hospital 
 113,Live,Mount Sophia
+113,Travel,Portugal 
+113,Travel,UK
 114,Live,Westwood Avenue
-117,Visit,Malaysia 
 116,Live,Jurong West Street 81
-117,Visit,Malaysia
 117,Visit,131 Marsiling Rise 
-117,Visit,731 Yishun Street 72
 117,Visit,141 Petir Road
 117,Visit,466 Segar Road
+117,Visit,731 Yishun Street 72
+117,Travel,Malaysia
+117,Travel,Malaysia 
 117,Live,Senja Road
 118,Visit,Pioneer Polyclinic 
-118,Live,Westwood Avenue area
-119,Live,Stirling Road
+118,Live,Westwood Avenue
 119,Work,Singtel
+119,Live,Stirling Road
 120,Visit,221 Boon Lay Place
 120,Live,Jurong West Street 65
 121,Live,Corporation Drive
-122,Visit,3 Gateway Drive
 122,Visit,2 Choa Chu Kang Loop
+122,Visit,3 Gateway Drive
 122,Live,Petir Road
-123,Visit,South Africa
-123,Visit ,France
 123,Live,Fernvale Close
+123,Travel,France
 123,Work,Singapore Airlines 
-124,Visit,Germany
-124,Visit,Tan Tock Seng Hospital
+123,Travel,South Africa
 124,Live,Admiralty Link
+124,Travel,Germany
+124,Visit,Tan Tock Seng Hospital
 125,Live,Jurong West Street 72
 126,Live,Eunos Crescent
-127,Visit,Tan Tock Seng Hospital
 127,Live,Bukit Panjang Road
+127,Visit,Tan Tock Seng Hospital
 128,Live,Jurong West Street 72
-129,Visit,Pioneer Polyclinic
-129,Visit,966 Jurong West Street 91
 129,Work,29A Jurong Port Road
+129,Visit,966 Jurong West Street 91
 129,Live,Jurong West Street 71
-130,Work,29A Jurong Port Road
+129,Visit,Pioneer Polyclinic
 130,Visit,21 Bukit Batok Central
+130,Work,29A Jurong Port Road
 130,Live,Jurong West Street 71
-131,Work,8 Pandan Crescent
 131,Visit,32 Teban Gardens Road
+131,Work,8 Pandan Crescent
 131,Live,Pandan Gardens
-132,Visit,London
 132,Visit,1 Orchard Boulevard
+132,Travel,London
 132,Live,Tanglin Road
-133,Visit,Pioneer Polyclinic
 133,Live,Jurong West Street 61
+133,Visit,Pioneer Polyclinic
 134,Live,Jurong West Street 71
 135,Work,100 Jurong East Street 21
 135,Live,Telok Blangah Crescent
-136,Visit,US
-136,Visit,Italy
+136,Travel,Italy
 136,Visit,Raffles Hospital
 136,Live,Tanjong Pagar Road
+136,Travel,US
 137,Live,Jurong West Street 41
 138,Visit,9 Sentul Crescent
 138,Live,Rivervale Drive
@@ -269,384 +269,384 @@ Case,Action,Location
 140,Live,Jurong West Street 81
 141,Work,71 Nanyang Drive
 141,Live,Jurong West Street 64
-142,Work,144 Robinson Road
 142,Visit,12 Kallang Avenue
+142,Work,144 Robinson Road
 142,Live,Jurong West Street 81
-143,Visit,Thailand
 143,Live,Tanglin Road
+143,Travel,Thailand
 144,Work,Jurong West Street 74
 145,Visit,16 Teck Whye Lane
 145,Live,Teck Whye Lane
 146,Live,Yio Chu Kang Road
-147,Visit,Indonesia
-147,Visit,Seletar Airport
+147,Travel,Indonesia
 147,Live,Oxley Road 
-148,Visit,Indonesia
+147,Visit,Seletar Airport
 148,Visit,10 Bayfront Avenue
+148,Travel,Indonesia
 148,Live,Jalan Lim Tai See
 149,Visit,306 Jurong East Street 32
 149,Live,Jurong East Street 32
-150,Visit,Nanyang Community Club
 150,Live,Jurong West Street 64
-151,Visit,Yishun Polyclinic
+150,Visit,Nanyang Community Club
 151,Visit,Mei Hwan Drive
+151,Visit,Yishun Polyclinic
 151,Live,Yishun Ring Road
-152,Visit,Indonesia
-153,Visit,Indonesia
+152,Travel,Indonesia
 153,Visit,Choa Chu Kang Polyclinic 
+153,Travel,Indonesia
 153,Live,Jalan Teck Whye
-154,Visit,Switzerland 
-154,Visit,UK
-154,Visit,Raffles Hospital 
 154,Live,1 Beach Road
+154,Visit,Raffles Hospital 
+154,Travel,Switzerland 
+154,Travel,UK
 155,Live,Boon Lay Place
 156,Live,Jurong West Street 74
 157,Live,Jurong West Street 81
 159,Visit,1 Farrer Park
 159,Live,Pending Road
-160,Live,Teck Whye Lane
 160,Study,10 Choa Chu Kang Road
+160,Live,Teck Whye Lane
 161,Live,Bishan Street 13
-162,Visit,Indonesia 
 162,Visit,26 Jalan Membina
+162,Travel,Indonesia 
 162,Live,Kim Tian Road
 163,Visit,107 North Bridge Road
 163,Visit,48 Woodleigh Park
 163,Live,Redhill Road
-165,Visit,France
-164,Visit,Malaysia 
 164,Live,Jurong West Street 93
-165,Visit,France 
+164,Travel,Malaysia 
+165,Travel,France
+165,Travel,France 
 165,Live,Jalan Mulia
-166,Visit,Malaysia
 166,Work,25E Sungei Kadut Street 1
 166,Live,Bukit Panjang Road
-167,Visit,Philippines 
-167,Work,Ng Teng Fong General Hospital
+166,Travel,Malaysia
 167,Live,Jurong East Street 21
+167,Work,Ng Teng Fong General Hospital
+167,Travel,Philippines 
 168,Live,Rivervale Street
-169,Visit,France 
+169,Travel,France 
 169,Visit,Health Promotion Board 
 169,Live,Yishun Street 81
-170,Visit,Indonesia
-171,Visit,France 
-171,Visit,Spain 
-172,Visit,Philippines 
-173,Visit,France 
-175,Visit,France 
-176,Visit,Japan 
-176,Visit,UK
-177,Visit,US
-177,Visit,UK
-177,Visit,France 
-178,Visit,Philippines 
+170,Travel,Indonesia
+171,Travel,France 
 171,Live,Jalan Haji Salam
+171,Travel,Spain 
 172,Work,8 Shenton Way
 172,Live,Lorong 28 Geylang
+172,Travel,Philippines 
+173,Travel,France 
 173,Live,Telok Blangah Street 31
 174,Live,Gangsa Road
+175,Travel,France 
 175,Live,Toh Tuck Road
 176,Live,Dover Road area
+176,Travel,Japan 
+176,Travel,UK
+177,Travel,France 
 177,Live,Telok Blangah Street 31
+177,Travel,UK
+177,Travel,US
 178,Live,Jurong East Street 21
-179,Visit,Malaysia 
+178,Travel,Philippines 
 179,Live,Jurong West Street 73
-180,Visit,US
+179,Travel,Malaysia 
 180,Live,Bishan Street 23
-181,Visit,Indonesia
+180,Travel,US
 181,Live,Bukit Timah Road
-182,Visit,Indonesia
+181,Travel,Indonesia
 182,Live,Bukit Timah Road
-183,Visit,Malaysia
-183,Work,5140 Ang Mo Kio Avenue 6
+182,Travel,Indonesia
 183,Visit,10 Bukit Panjang Ring Road
-183,Visit,450 Changi Road
 183,Visit,4001 Beach Road
 183,Visit,448 Changi Road
+183,Visit,450 Changi Road
+183,Work,5140 Ang Mo Kio Avenue 6
 183,Live,Bukit Panjang Ring Road
-184,Visit,Philippines 
+183,Travel,Malaysia
 184,Live,Lorong 28 Geylang
-185,Visit,Malaysia
+184,Travel,Philippines 
 185,Live,Circuit Road
+185,Travel,Malaysia
 186,Work,25E Sungei Kadut Street 1
 186,Live,Woodlands Street 13
-187,Visit,Malaysia 
 187,Visit,76 Kim Keat Road
+187,Travel,Malaysia 
 187,Live,Whampoa Drive
-188,Visit,Thailand 
-188,Visit,930 Yishun Avenue 2
 188,Visit,743 Yishun Avenue 5
+188,Visit,930 Yishun Avenue 2
+188,Travel,Thailand 
 188,Live,Yishun Street 51
-189,Visit,India 
 189,Work,3 Temasek Ave
+189,Travel,India 
 189,Live,St George’s Road.
 190,Live,Yishun Ave 11
-191,Visit,Germany 
-191,Visit,Malaysia 
+191,Travel,Germany 
+191,Travel,Malaysia 
 191,Live,Pasir Ris Grove
-192,Visit,US
 192,Live,289 Beach Road
-193,Visit,Germany 
-193,Visit,Czech Republic 
-193,Visit,Austria
-193,Visit,Hungary
+192,Travel,US
+193,Travel,Austria
+193,Travel,Czech Republic 
+193,Travel,Germany 
+193,Travel,Hungary
 193,Live,Telok Blangah Street 31
-194,Visit,Germany
-194,Visit,Czech Republic
-194,Visit,Austria
-194,Visit,Hungary
+194,Travel,Austria
+194,Travel,Czech Republic
+194,Travel,Germany
+194,Travel,Hungary
 194,Live ,Telok Blangah Street 31
-195,Visit,US
-195,Visit,Canada 
 195,Live,Bukit Batok Ave 3
+195,Travel,Canada 
+195,Travel,US
 196,Live,Holland Close
-197,Visit,Malaysia
-197,Visit,51 Banyan Avenue
-197,Visit,450 Changi Road
+197,Visit,10 Buroh Street
 197,Visit,25 Jln Mempurong
 197,Visit,3 Muscat Street
-197,Visit,10 Buroh Street
+197,Visit,450 Changi Road
+197,Visit,51 Banyan Avenue
 197,Live,Canberra Street
+197,Travel,Malaysia
 198,Live,Saraca Road
-199,Visit,Malaysia
 199,Visit,151 Compassvale Bow
 199,Live,Hougang Street 51
+199,Travel,Malaysia
 200,Live,Jalan Mulia
 201,Live,Teck Whye Lane
-202,Visit,Malaysia 
 202,Visit,151 Compassvale Bow
-202,Visit,218 South Bridge Road
 202,Visit,2 Serangoon North Avenue 2
+202,Visit,218 South Bridge Road
 202,Live,Anchorvale Drive
-203,Visit,Indonesia 
+202,Travel,Malaysia 
+203,Travel,Indonesia 
 203,Live,Pasir Ris Street 51
-204,Visit,Japan 
-204,Live,Tanjong Pagar Road area
-205,Visit,Philippines 
+204,Travel,Japan 
+204,Live,Tanjong Pagar Road
 205,Work,45 Airport Cargo Road
 205,Live,Flora Drive
-206,Visit,US
+205,Travel,Philippines 
 206,Live,Upper Paya Lebar Road
-207,Visit,UK
+206,Travel,US
+207,Travel,UK
 207,Live,Yishun Central
 208,Visit,Outram Road
 208,Live,Tiong Bahru Road
-209,Visit,US
-209,Work,Singapore General Hospital
 209,Live,Serangoon Avenue 3
-210,Visit,Germany 
-210,Visit,Switzerland 
+209,Work,Singapore General Hospital
+209,Travel,US
+210,Travel,Germany 
 210,Live,Leedon Park
+210,Travel,Switzerland 
 211,Live,Crawford Lane
-212,Visit,Indonesia 
 212,Live,6 Irrawaddy Road
-213,Visit,Indonesia 
+212,Travel,Indonesia 
+213,Travel,Indonesia 
 213,Live,Serangoon North Avenue 3
-214,Visit,403 Fajar Road
 214,Visit,145 Simei Street 2
+214,Visit,403 Fajar Road
 214,Visit,463 Clementi Road
 214,Live,Jurong West Street 71
-215,Visit,Thailand 
 215,Work,1 Jurong West Central 2
 215,Live,Mei Ling Street
-216,Visit,Germany 
-216,Visit,Czech Republic
+215,Travel,Thailand 
 216,Work,30 Pasir Panjang Road
 216,Live,Bukit Batok West Avenue 6
-217,Visit,Spain
+216,Travel,Czech Republic
+216,Travel,Germany 
 217,Live,Mount Sophia area
+217,Travel,Spain
 218,Live,Pending Road 
-220,Visit,France
-221,Work,52 Lengkok Bahru
-222,Visit,France
-222,Visit,Spain 
-222,Visit,Philippines 
-223,Visit,US
-223,Visit,Australia 
-224,Visit,Malaysia 
-225,Visit,Indonesia 
-219,Work,50 Buangkok Drive
 219,Visit,26 Ang Mo Kio Industrial Park 2
 219,Visit,405 Havelock Road
+219,Work,50 Buangkok Drive
 219,Live,Bishan Street 22
-220,Visit,France
 220,Work,1 Ayer Rajah Avenue
 220,Live,Dover Rise
-221,Work,52 Lengkok Bahru
+220,Travel,France
+220,Travel,France
 221,Visit,10 Arumugam Road
+221,Work,52 Lengkok Bahru
+221,Work,52 Lengkok Bahru
 221,Visit,6A Shenton Way
 221,Live,Tanjong Pagar Road
-222,Visit,France
-222,Visit,Spain 
-222,Visit,Philippines 
 222,Work,12 Seletar Aerospace Link
+222,Travel,France
+222,Travel,France
 222,Live,Kensington Park Road
-223,Visit,US
-223,Visit,Australia 
+222,Travel,Philippines 
+222,Travel,Philippines 
+222,Travel,Spain 
+222,Travel,Spain 
+223,Travel,Australia 
+223,Travel,Australia 
 223,Live,Serangoon Garden Terrace
-224,Visit,Malaysia 
+223,Travel,US
+223,Travel,US
+224,Travel,Malaysia 
+224,Travel,Malaysia 
 224,Live,Senja Road
-225,Visit,Indonesia 
+225,Travel,Indonesia 
+225,Travel,Indonesia 
 225,Live,Newton Road
-226,Visit,Netherlands 
+226,Travel,Netherlands 
 226,Live,Sixth Avenue
-227,Visit,France 
-227,Work,Tampines Street 82
+227,Travel,France 
 227,Live,Pasir Panjang Road
+227,Work,Tampines Street 82
 228,Visit,Bedok Polyclinic 
 228,Live,Sea Breeze Avenue 
-229,Visit,Spain
 229,Live,Kim Keat Road
-230,Visit,Eastern Europe 
+229,Travel,Spain
+230,Travel,Eastern Europe 
+230,Live,Ewe Boon Road
 230,Work,Republic Polytechnic 
 230,Work,Singapore Polytechnic
-230,Live,Ewe Boon Road
-231,Visit,US
 231,Live,Robertson Quay
-232,Visit,US
+231,Travel,US
 232,Live,Robertson Quay
-233,Visit,UK
-233,Visit,UK
-233,Visit,Parkway East Hospital 
+232,Travel,US
 233,Live,East Coast Road
+233,Visit,Parkway East Hospital 
+233,Travel,UK
+233,Travel,UK
 234,Visit,Bukit Merah Polyclinic 
 234,Live,Telok Blangah Heights
-235,Work,Outram Road
 235,Live,Bukit Batok West Avenue 8
+235,Work,Outram Road
 236,Live,Bishan Street 22
 237,Live,Beach Road
-238,Visit,Raffles Hospital 
 238,Live,Jalan Besar
-239,Visit,France 
+238,Visit,Raffles Hospital 
 239,Live,Cairnhill Rise
-240,Visit,Spain 
+239,Travel,France 
 240,Live,Kim Keat Road
-241,Visit,France 
+240,Travel,Spain 
 241,Live,Cairnhill Road 
-242,Visit,Malaysia 
+241,Travel,France 
 242,Live,Gangsa Road
-243,Visit,Germany 
-243,Visit,Italy 
-243,Visit,Switzerland 
-243,Work,River Valley Road
+242,Travel,Malaysia 
+243,Travel,Germany 
 243,Live,Havelock Road
-244,Visit,Germany 
-244,Visit,Italy 
-244,Visit,Switzerland 
-244,Visit,Gleneagles Hospital 
-244,Work,River Valley Road
+243,Travel,Italy 
+243,Work,River Valley Road
+243,Travel,Switzerland 
 244,Live,Alexandra Road
+244,Travel,Germany 
+244,Visit,Gleneagles Hospital 
+244,Travel,Italy 
+244,Work,River Valley Road
+244,Travel,Switzerland 
 245,Work,9 Straits View
 245,Live,Boon Lay Drive
-246,Visit,Japan 
 246,Visit,31 Exeter Road
+246,Travel,Japan 
 246,Live,Tanjong Pagar
-247,Visit,UK
-247,Visit,France 
+247,Travel,France 
 247,Live,Tampines Avenue 8
-248,Visit,Malaysia 
-249,Visit,US
-250,Visit,UK
-250,Visit,Austria 
-252,Visit,Malaysia 
-253,Visit,Spain 
-254,Visit,France 
-255,Visit,Norway
-255,Visit,Denmark 
-255,Visit,Sweden 
-257,Visit,UK
-258,Visit,Europe 
-259,Visit,Philippines 
-261,Visit,US
-261,Visit,France 
-262,Visit,UK
-263,Visit,Spain 
-263,Visit,Portugal 
-265,Visit,UK
-266,Visit,Spain 
-266,Visit,Portugal 
-267,Visit,Indonesia
-268,Visit,Switzerland
-268,Visit,UK
-269,Visit,UK
-270,Visit,Croatia
+247,Travel,UK
+248,Travel,Malaysia 
+249,Travel,US
+250,Travel,Austria 
+250,Travel,UK
+252,Travel,Malaysia 
+253,Travel,Spain 
+254,Travel,France 
+255,Travel,Denmark 
+255,Travel,Norway
+255,Travel,Sweden 
+257,Travel,UK
+258,Travel,Europe 
+259,Travel,Philippines 
+261,Travel,France 
+261,Travel,US
+262,Travel,UK
+263,Travel,Portugal 
+263,Travel,Spain 
+265,Travel,UK
+266,Travel,Portugal 
+266,Travel,Spain 
+267,Travel,Indonesia
+268,Travel,Switzerland
+268,Travel,UK
+269,Travel,UK
+270,Travel,Austria
 270,Visit,Bosnia
-270,Visit,Serbia
-270,Visit,Slovenia
-270,Visit,Austria
-271,Visit,UK
-272,Visit,Eastern Europe
-274,Visit,US
-275,Visit,Indonesia
-275,Visit,Malaysia
-276,Visit,UK
-277,Visit,US
-278,Visit,Switzerland
-278,Visit,US
-279,Visit,Philippines 
-280,Visit,UK
-281,Visit,US
-281,Visit,Canada
-282,Visit,France
-283,Visit,Malaysia
-284,Visit,US
-285,Visit,Thailand
-286,Visit,UK
-288,Visit,Malaysia
-291,Visit,Indonesia
-292,Visit,Turkey
-293,Visit,UK
-294,Visit,Indonesia
-295,Visit,US
-296,Visit,UK
-297,Visit,Indonesia
-298,Visit,India
-299,Visit,Philippines
-300,Visit,Switzerland
-300,Visit,Austria
-301,Visit,Austria
-301,Visit,Switzerland
-303,Visit,Malaysia
-304,Visit,UK
-304,Visit,Switzerland
-304,Visit,Austria
-306,Visit,UK
-307,Visit,Philippines
-308,Visit,US
-309,Visit,Croatia
-309,Visit,Austria
-312,Visit,France
-312,Visit,Germany
-313,Visit,UK
-315,Visit,UK 
-316,Visit,Malaysia 
-317,Visit,UK 
-319,Visit,Philippines 
-320,Visit,UK 
-322,Visit,Switzerland
-322,Visit,France 
-323,Visit,UK 
-324,Visit,UK 
-325,Visit,UK 
-326,Visit,UK
-326,Visit,Netherlands 
-327,Visit,Switzerland
-327,Visit,Italy
-327,Visit,Austria
-327,Visit,Germany
-328,Visit,UK
-328,Visit,Switzerland 
-329,Visit,Turkey 
-331,Visit,UK 
-332,Visit,UK 
-333,Visit,US 
-334,Visit,US 
-337,Visit,France
-337,Visit,Switzerland 
-339,Visit,Philippines 
-340,Visit,Philippines 
-341,Visit,UK 
-342,Visit,Thailand 
-343,Visit,UK 
-344,Visit,UK 
-345,Visit,UK 
+270,Travel,Croatia
+270,Travel,Serbia
+270,Travel,Slovenia
+271,Travel,UK
+272,Travel,Eastern Europe
+274,Travel,US
+275,Travel,Indonesia
+275,Travel,Malaysia
+276,Travel,UK
+277,Travel,US
+278,Travel,Switzerland
+278,Travel,US
+279,Travel,Philippines 
+280,Travel,UK
+281,Travel,Canada
+281,Travel,US
+282,Travel,France
+283,Travel,Malaysia
+284,Travel,US
+285,Travel,Thailand
+286,Travel,UK
+288,Travel,Malaysia
+291,Travel,Indonesia
+292,Travel,Turkey
+293,Travel,UK
+294,Travel,Indonesia
+295,Travel,US
+296,Travel,UK
+297,Travel,Indonesia
+298,Travel,India
+299,Travel,Philippines
+300,Travel,Austria
+300,Travel,Switzerland
+301,Travel,Austria
+301,Travel,Switzerland
+303,Travel,Malaysia
+304,Travel,Austria
+304,Travel,Switzerland
+304,Travel,UK
+306,Travel,UK
+307,Travel,Philippines
+308,Travel,US
+309,Travel,Austria
+309,Travel,Croatia
+312,Travel,France
+312,Travel,Germany
+313,Travel,UK
+315,Travel,UK 
+316,Travel,Malaysia 
+317,Travel,UK 
+319,Travel,Philippines 
+320,Travel,UK 
+322,Travel,France 
+322,Travel,Switzerland
+323,Travel,UK 
+324,Travel,UK 
+325,Travel,UK 
+326,Travel,Netherlands 
+326,Travel,UK
+327,Travel,Austria
+327,Travel,Germany
+327,Travel,Italy
+327,Travel,Switzerland
+328,Travel,Switzerland 
+328,Travel,UK
+329,Travel,Turkey 
+331,Travel,UK 
+332,Travel,UK 
+333,Travel,US 
+334,Travel,US 
+337,Travel,France
+337,Travel,Switzerland 
+339,Travel,Philippines 
+340,Travel,Philippines 
+341,Travel,UK 
+342,Travel,Thailand 
+343,Travel,UK 
+344,Travel,UK 
+345,Travel,UK 
