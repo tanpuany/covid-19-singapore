@@ -87,6 +87,7 @@ Case,Cluster
 142,boulder+ Gym
 142,Safra Jurong Joy Garden
 144,Safra Jurong Joy Garden
+144,the Church of Singapore 
 145,Safra Jurong Joy Garden
 146,Safra Jurong Joy Garden
 148,Safra Jurong Joy Garden
@@ -107,32 +108,40 @@ Case,Cluster
 174,Safra Jurong Joy Garden
 179,Safra Jurong Joy Garden
 183,mass religious gathering at a mosque in Malaysia
+183,Masjid Al-Muttaqin
 185,Safra Jurong Joy Garden
 186,Safra Jurong Joy Garden
 187,mass religious gathering at a mosque in Malaysia
+192,Hero’s (69 Circular Road)
 196,Safra Jurong Joy Garden
 197,mass religious gathering at a mosque in Malaysia
 199,mass religious gathering at a mosque in Malaysia
 201,Safra Jurong Joy Garden
 202,mass religious gathering at a mosque in Malaysia
-218,Safra Jurong Joy Garden
-224,Safra Jurong Joy Garden
-144,the Church of Singapore 
 208,the Church of Singapore 
 214,the Church of Singapore 
+218,Safra Jurong Joy Garden
+224,Safra Jurong Joy Garden
 235,the Church of Singapore 
-305,boulder+ Gym
-283,the Church of Singapore
-183,Masjid Al-Muttaqin
 252,Masjid Al-Muttaqin
+283,the Church of Singapore
+305,boulder+ Gym
 310,Masjid Al-Muttaqin
 345,boulder+ Gym
+384,Singapore Cricket Club (A Connaught Drive)
+439,Wilby Residences (25 Wilby Road)
 443,boulder+ Gym
+510,The Orange Ballroom (845 Geylang Road)
+511,The Orange Ballroom (845 Geylang Road)
 516,PCF Sparkletots Preschool @ Fengshan Blk 126
 521,PCF Sparkletots Preschool @ Fengshan Blk 126
+540,Ce La Vi (1 Bay Front Avenue)
+556,Dover Court International School (301 Dover Road)
+556,Hero’s (69 Circular Road)
 566,PCF Sparkletots Preschool @ Fengshan Blk 126
 567,PCF Sparkletots Preschool @ Fengshan Blk 126
 572,PCF Sparkletots Preschool @ Fengshan Blk 126
+581,SingPost Centre (10 Eunos Road 8)
 583,PCF Sparkletots Preschool @ Fengshan Blk 126
 584,PCF Sparkletots Preschool @ Fengshan Blk 126
 601,PCF Sparkletots Preschool @ Fengshan Blk 126
@@ -144,45 +153,242 @@ Case,Cluster
 610,PCF Sparkletots Preschool @ Fengshan Blk 126
 612,PCF Sparkletots Preschool @ Fengshan Blk 126
 614,PCF Sparkletots Preschool @ Fengshan Blk 126
+616,Mustafa Centre (145 Syed Alwi Road)
 617,PCF Sparkletots Preschool @ Fengshan Blk 126
-624,PCF Sparkletots Preschool @ Fengshan Blk 126
-556,Dover Court International School (301 Dover Road)
 618,Dover Court International School (301 Dover Road)
+624,PCF Sparkletots Preschool @ Fengshan Blk 126
 626,Dover Court International School (301 Dover Road)
 638,PCF Sparkletots Preschool @ Fengshan Blk 126
+655,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+657,Hero’s (69 Circular Road)
 660,PCF Sparkletots Preschool @ Fengshan Blk 126
 662,Dover Court International School (301 Dover Road)
+670,Hero’s (69 Circular Road)
+670,Singapore Cricket Club (A Connaught Drive)
+678,Wilby Residences (25 Wilby Road)
 686,Dover Court International School (301 Dover Road)
-713,Dover Court International School (301 Dover Road)
-729,Dover Court International School (301 Dover Road)
-581,SingPost Centre (10 Eunos Road 8)
 689,SingPost Centre (10 Eunos Road 8)
-724,SingPost Centre (10 Eunos Road 8)
-761,Dover Court International School (301 Dover Road)
-740,SingPost Centre (10 Eunos Road 8)
-796,SingPost Centre (10 Eunos Road 8)
-745,The Wedding Brocade (1 Yishun Industrial Street 1)
-802,The Wedding Brocade (1 Yishun Industrial Street 1)
-810,The Wedding Brocade (1 Yishun Industrial Street 1)
 705,PCF Sparkletots Preschool @ Fengshan Blk 126
 706,PCF Sparkletots Preschool @ Fengshan Blk 126
 707,PCF Sparkletots Preschool @ Fengshan Blk 126
 708,PCF Sparkletots Preschool @ Fengshan Blk 126
+713,Dover Court International School (301 Dover Road)
+714,Hero’s (69 Circular Road)
 716,PCF Sparkletots Preschool @ Fengshan Blk 126
+724,SingPost Centre (10 Eunos Road 8)
+728,Singapore Cricket Club (A Connaught Drive)
+729,Dover Court International School (301 Dover Road)
+740,SingPost Centre (10 Eunos Road 8)
+745,The Wedding Brocade (1 Yishun Industrial Street 1)
 746,PCF Sparkletots Preschool @ Fengshan Blk 126
+761,Dover Court International School (301 Dover Road)
+788,Mustafa Centre (145 Syed Alwi Road)
+792,Singapore Cricket Club (A Connaught Drive)
+793,Wilby Residences (25 Wilby Road)
+796,SingPost Centre (10 Eunos Road 8)
+802,The Wedding Brocade (1 Yishun Industrial Street 1)
+807,Ce La Vi (1 Bay Front Avenue)
+810,The Wedding Brocade (1 Yishun Industrial Street 1)
+813,Hero’s (69 Circular Road)
+818,Wilby Residences (25 Wilby Road)
 826,S11 Dormitory @ Punggol (2 Seletar North Link)
 829,S11 Dormitory @ Punggol (2 Seletar North Link)
-852,S11 Dormitory @ Punggol (2 Seletar North Link)
-860,S11 Dormitory @ Punggol (2 Seletar North Link)
-439,Wilby Residences (25 Wilby Road)
-678,Wilby Residences (25 Wilby Road)
-793,Wilby Residences (25 Wilby Road)
-818,Wilby Residences (25 Wilby Road)
 848,Wilby Residences (25 Wilby Road)
+852,S11 Dormitory @ Punggol (2 Seletar North Link)
+855,Singapore Cricket Club (A Connaught Drive)
+856,Ce La Vi (1 Bay Front Avenue)
+860,S11 Dormitory @ Punggol (2 Seletar North Link)
 864,Wilby Residences (25 Wilby Road)
+866,Mustafa Centre (145 Syed Alwi Road)
+868,Dormitory located at 55 Sungei Kadut Loop
+869,Construction site at Maxwell MRT station (50 Neil Road)
 873,Wilby Residences (25 Wilby Road)
-192,Hero’s (69 Circular Road)
-556,Hero’s (69 Circular Road)
-657,Hero’s (69 Circular Road)
-670,Hero’s (69 Circular Road)
-813,Hero’s (69 Circular Road)
+875,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+878,Keppel Shipyard (51 Pioneer Sector 1)
+881,SingPost Centre (10 Eunos Road 8)
+898,Keppel Shipyard (51 Pioneer Sector 1)
+900,Construction site at Maxwell MRT station (50 Neil Road)
+907,Keppel Shipyard (51 Pioneer Sector 1)
+908,Mustafa Centre (145 Syed Alwi Road)
+911,Mustafa Centre (145 Syed Alwi Road)
+918,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+922,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+924,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+925,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+926,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+934,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+938,Mustafa Centre (145 Syed Alwi Road)
+940,Hero’s (69 Circular Road)
+946,S11 Dormitory @ Punggol (2 Seletar North Link)
+947,S11 Dormitory @ Punggol (2 Seletar North Link)
+956,Construction site at Project Glory (50 Market Street)
+956,Cochrane Lodge II (49 Admiralty Road West)
+963,Toh Guan Dormitory (19A Toh Guan Road East)
+966,S11 Dormitory @ Punggol (2 Seletar North Link)
+967,Construction site at Project Glory (50 Market Street)
+967,Cochrane Lodge II (49 Admiralty Road West)
+972,Dormitory located at 55 Sungei Kadut Loop
+973,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+974,Dormitory located at 55 Sungei Kadut Loop
+976,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+977,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+979,S11 Dormitory @ Punggol (2 Seletar North Link)
+980,Wilby Residences (25 Wilby Road)
+982,S11 Dormitory @ Punggol (2 Seletar North Link)
+983,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+984,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+985,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+986,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+987,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+988,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+989,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+990,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+993,S11 Dormitory @ Punggol (2 Seletar North Link)
+1000,Construction site at Maxwell MRT station (50 Neil Road)
+1001,Mustafa Centre (145 Syed Alwi Road)
+1003,PCF Sparkletots Preschool @ Fengshan Blk 126
+1004,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+1007,The Orange Ballroom (845 Geylang Road)
+1009,Construction site at Maxwell MRT station (50 Neil Road)
+1011,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1012,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1012,Construction site at 6 Battery Road
+1013,Hero’s (69 Circular Road)
+1015,Mustafa Centre (145 Syed Alwi Road)
+1018,Cochrane Lodge II (49 Admiralty Road West)
+1018,Cochrane Lodge I (51 Admiralty Road West)
+1019,Construction site at Project Glory (50 Market Street)
+1024,Mustafa Centre (145 Syed Alwi Road)
+1026,Mustafa Centre (145 Syed Alwi Road)
+1034,Construction site at Maxwell MRT station (50 Neil Road)
+1035,S11 Dormitory @ Punggol (2 Seletar North Link)
+1037,SingPost Centre (10 Eunos Road 8)
+1039,S11 Dormitory @ Punggol (2 Seletar North Link)
+1043,SingPost Centre (10 Eunos Road 8)
+1046,Mustafa Centre (145 Syed Alwi Road)
+1047,S11 Dormitory @ Punggol (2 Seletar North Link)
+1049,Tampines Dormitory (2 Tampines Place)
+1049,Construction site at 6 Battery Road
+1050,S11 Dormitory @ Punggol (2 Seletar North Link)
+1052,Singapore Cricket Club (A Connaught Drive)
+1054,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1054,Sungei Tengah Lodge (500 Old Choa Chu Kang Road)
+1055,Lee Ah Mooi Old Age Home (1 Thomson Lane)
+1056,Mustafa Centre (145 Syed Alwi Road)
+1061,S11 Dormitory @ Punggol (2 Seletar North Link)
+1062,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1066,S11 Dormitory @ Punggol (2 Seletar North Link)
+1068,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1069,Construction site at Maxwell MRT station (50 Neil Road)
+1072,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1074,S11 Dormitory @ Punggol (2 Seletar North Link)
+1075,Wilby Residences (25 Wilby Road)
+1076,Keppel Shipyard (51 Pioneer Sector 1)
+1077,Sungei Tengah Lodge (500 Old Choa Chu Kang Road)
+1079,Toh Guan Dormitory (19A Toh Guan Road East)
+1083,S11 Dormitory @ Punggol (2 Seletar North Link)
+1084,S11 Dormitory @ Punggol (2 Seletar North Link)
+1089,S11 Dormitory @ Punggol (2 Seletar North Link)
+1093,Mustafa Centre (145 Syed Alwi Road)
+1094,Ce La Vi (1 Bay Front Avenue)
+1096,Mustafa Centre (145 Syed Alwi Road)
+1097,Hero’s (69 Circular Road)
+1098,Dover Court International School (301 Dover Road)
+1100,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1101,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1104,Construction site at Project Glory (50 Market Street)
+1104,Cochrane Lodge II (49 Admiralty Road West)
+1106,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1106,Toh Guan Dormitory (19A Toh Guan Road East)
+1107,S11 Dormitory @ Punggol (2 Seletar North Link)
+1108,S11 Dormitory @ Punggol (2 Seletar North Link)
+1110,S11 Dormitory @ Punggol (2 Seletar North Link)
+1111,S11 Dormitory @ Punggol (2 Seletar North Link)
+1112,S11 Dormitory @ Punggol (2 Seletar North Link)
+1113,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1115,The Orange Ballroom (845 Geylang Road)
+1117,S11 Dormitory @ Punggol (2 Seletar North Link)
+1118,S11 Dormitory @ Punggol (2 Seletar North Link)
+1119,S11 Dormitory @ Punggol (2 Seletar North Link)
+1120,Construction site at Project Glory (50 Market Street)
+1124,Sungei Tengah Lodge (500 Old Choa Chu Kang Road)
+1124,Construction site at Project Glory (50 Market Street)
+1126,S11 Dormitory @ Punggol (2 Seletar North Link)
+1127,Mustafa Centre (145 Syed Alwi Road)
+1135,S11 Dormitory @ Punggol (2 Seletar North Link)
+1138,S11 Dormitory @ Punggol (2 Seletar North Link)
+1140,Tampines Dormitory (2 Tampines Place)
+1144,Cochrane Lodge I (51 Admiralty Road West)
+1145,S11 Dormitory @ Punggol (2 Seletar North Link)
+1148,Toh Guan Dormitory (19A Toh Guan Road East)
+1149,Construction site at Project Glory (50 Market Street)
+1150,Toh Guan Dormitory (19A Toh Guan Road East)
+1153,S11 Dormitory @ Punggol (2 Seletar North Link)
+1155,S11 Dormitory @ Punggol (2 Seletar North Link)
+1156,S11 Dormitory @ Punggol (2 Seletar North Link)
+1158,Keppel Shipyard (51 Pioneer Sector 1)
+1171,S11 Dormitory @ Punggol (2 Seletar North Link)
+1172,Keppel Shipyard (51 Pioneer Sector 1)
+1173,S11 Dormitory @ Punggol (2 Seletar North Link)
+1174,S11 Dormitory @ Punggol (2 Seletar North Link)
+1176,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1180,Mustafa Centre (145 Syed Alwi Road)
+1183,Construction site at 6 Battery Road
+1184,Construction site at 6 Battery Road
+1185,S11 Dormitory @ Punggol (2 Seletar North Link)
+1186,S11 Dormitory @ Punggol (2 Seletar North Link)
+1187,S11 Dormitory @ Punggol (2 Seletar North Link)
+1188,Mustafa Centre (145 Syed Alwi Road)
+1189,Mustafa Centre (145 Syed Alwi Road)
+1191,Construction site at Project Glory (50 Market Street)
+1193,Tampines Dormitory (2 Tampines Place)
+1194,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1195,Toh Guan Dormitory (19A Toh Guan Road East)
+1199,Mustafa Centre (145 Syed Alwi Road)
+1200,Mustafa Centre (145 Syed Alwi Road)
+1201,Mustafa Centre (145 Syed Alwi Road)
+1202,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1209,Mustafa Centre (145 Syed Alwi Road)
+1213,S11 Dormitory @ Punggol (2 Seletar North Link)
+1216,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1218,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1219,Mustafa Centre (145 Syed Alwi Road)
+1222,S11 Dormitory @ Punggol (2 Seletar North Link)
+1223,S11 Dormitory @ Punggol (2 Seletar North Link)
+1224,S11 Dormitory @ Punggol (2 Seletar North Link)
+1225,S11 Dormitory @ Punggol (2 Seletar North Link)
+1226,Tampines Dormitory (2 Tampines Place)
+1226,Construction site at Project Glory (50 Market Street)
+1236,S11 Dormitory @ Punggol (2 Seletar North Link)
+1238,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1251,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1252,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1253,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1254,Toh Guan Dormitory (19A Toh Guan Road East)
+1255,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1256,Westlite Toh Guan dormitory (18 Toh Guan Road East)
+1259,Mustafa Centre (145 Syed Alwi Road)
+1260,Mustafa Centre (145 Syed Alwi Road)
+1267,Sungei Tengah Lodge (500 Old Choa Chu Kang Road)
+1270,Keppel Shipyard (51 Pioneer Sector 1)
+1273,Toh Guan Dormitory (19A Toh Guan Road East)
+1273,Construction site at Project Glory (50 Market Street)
+1275,S11 Dormitory @ Punggol (2 Seletar North Link)
+1277,Mustafa Centre (145 Syed Alwi Road)
+1279,S11 Dormitory @ Punggol (2 Seletar North Link)
+1280,S11 Dormitory @ Punggol (2 Seletar North Link)
+1282,Mustafa Centre (145 Syed Alwi Road)
+1283,S11 Dormitory @ Punggol (2 Seletar North Link)
+1284,S11 Dormitory @ Punggol (2 Seletar North Link)
+1285,S11 Dormitory @ Punggol (2 Seletar North Link)
+1286,S11 Dormitory @ Punggol (2 Seletar North Link)
+1287,S11 Dormitory @ Punggol (2 Seletar North Link)
+1288,S11 Dormitory @ Punggol (2 Seletar North Link)
+1289,S11 Dormitory @ Punggol (2 Seletar North Link)
+1290,S11 Dormitory @ Punggol (2 Seletar North Link)
+1291,S11 Dormitory @ Punggol (2 Seletar North Link)
+1292,S11 Dormitory @ Punggol (2 Seletar North Link)
+1293,S11 Dormitory @ Punggol (2 Seletar North Link)
+1299,Tampines Dormitory (2 Tampines Place)
+1300,S11 Dormitory @ Punggol (2 Seletar North Link)
+1302,S11 Dormitory @ Punggol (2 Seletar North Link)
